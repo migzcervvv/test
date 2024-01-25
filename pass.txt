@@ -1,0 +1,2 @@
+gmail_user = "miggzc1@gmail.com"
+gmail_password = "deos wxeq gmji ynfp"
